@@ -55,7 +55,7 @@ public class SimpleTreeListViewAdapter<T> extends TreeListViewAdapter<T> {
 	}
 	
 	/**
-	 * ¶¯Ì¬²åÈë½Úµã
+	 * åŠ¨æ€æ’å…¥èŠ‚ç‚¹
 	 */
 	public void addExtraNode(int position, String string)
 	{
