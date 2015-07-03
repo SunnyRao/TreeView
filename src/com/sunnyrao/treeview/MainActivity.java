@@ -84,21 +84,21 @@ public class MainActivity extends Activity {
 
 	private void initDatas() {
 		mData = new ArrayList<FileBean>();
-		FileBean bean = new FileBean(1, 0, "��Ŀ¼1");
+		FileBean bean = new FileBean(1, 0, "根目录1");
 		mData.add(bean);
-		bean = new FileBean(2, 0, "��Ŀ¼2");
+		bean = new FileBean(2, 0, "根目录2");
 		mData.add(bean);
-		bean = new FileBean(3, 0, "��Ŀ¼3");
+		bean = new FileBean(3, 0, "根目录3");
 		mData.add(bean);
-		bean = new FileBean(4, 1, "��Ŀ¼1-1");
+		bean = new FileBean(4, 1, "根目录1-1");
 		mData.add(bean);
-		bean = new FileBean(5, 1, "��Ŀ¼1-2");
+		bean = new FileBean(5, 1, "根目录1-2");
 		mData.add(bean);
-		bean = new FileBean(6, 5, "��Ŀ¼1-2-1");
+		bean = new FileBean(6, 5, "根目录1-2-1");
 		mData.add(bean);
-		bean = new FileBean(7, 3, "��Ŀ¼3-1");
+		bean = new FileBean(7, 3, "根目录3-1");
 		mData.add(bean);
-		bean = new FileBean(8, 3, "��Ŀ¼3-2");
+		bean = new FileBean(8, 3, "根目录3-2");
 		mData.add(bean);
 	}
 }
